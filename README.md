@@ -16,7 +16,6 @@ tools = [AgentTool(investment_plan_agent),get_user_finance_details]
 
 Give instruction about another agent to use it as tool in root agent.
 
-## example prompt 
-can you analyse my spendings and tell how can i save 150000per month. Also find the current FD interest rates offered by SBI and tell me if i can use FD to reach my financial goal of saving 1000000 in 3 yrs.
+
 
 
